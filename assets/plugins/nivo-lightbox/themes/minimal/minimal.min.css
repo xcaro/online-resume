@@ -1,0 +1,11 @@
+/*
+* Nivo Lightbox v1.2.0
+* A fork of the original Nivo Lightbox
+* https://github.com/jerivas/Nivo-Lightbox#readme
+*
+* Copyright 2016, Ed Rivas <e@jerivas.com>
+* Free to use and abuse under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+@charset "UTF-8";.nivo-lightbox-theme-minimal.nivo-lightbox-overlay{background:rgba(0,0,0,.9)}.nivo-lightbox-theme-minimal .nivo-lightbox-nav{color:#fff;font-size:0;height:100%;max-width:125px;opacity:.5;text-decoration:none!important;top:0;-webkit-transition:opacity .5s;transition:opacity .5s;width:15%}.nivo-lightbox-theme-minimal .nivo-lightbox-nav:before{font-size:90px;left:0;position:absolute;text-align:center;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);width:100%}.nivo-lightbox-theme-minimal .nivo-lightbox-nav:hover{opacity:1}.nivo-lightbox-theme-minimal .nivo-lightbox-prev{background:-webkit-linear-gradient(right,transparent 0,rgba(0,0,0,.9) 100%);background:linear-gradient(to left,transparent 0,rgba(0,0,0,.9) 100%)}.nivo-lightbox-theme-minimal .nivo-lightbox-prev:before{content:"‹"}.nivo-lightbox-theme-minimal .nivo-lightbox-next{background:-webkit-linear-gradient(left,transparent 0,rgba(0,0,0,.9) 100%);background:linear-gradient(to right,transparent 0,rgba(0,0,0,.9) 100%)}.nivo-lightbox-theme-minimal .nivo-lightbox-next:before{content:"›"}.nivo-lightbox-theme-minimal .nivo-lightbox-close{color:#fff;font-size:0;opacity:.5;text-decoration:none!important;-webkit-transition:opacity .5s;transition:opacity .5s}.nivo-lightbox-theme-minimal .nivo-lightbox-close:before{content:"✕";font-size:30px}.nivo-lightbox-theme-minimal .nivo-lightbox-close:hover{opacity:1}.nivo-lightbox-theme-minimal .nivo-lightbox-title{color:#fff;text-shadow:1px 1px 1px #000}.nivo-lightbox-theme-minimal .nivo-lightbox-image img{background:#fff;box-shadow:1px 1px 1px rgba(0,0,0,.4)}.nivo-lightbox-theme-minimal .nivo-lightbox-ajax,.nivo-lightbox-theme-minimal .nivo-lightbox-inline{background:#fff;padding:40px;box-shadow:1px 1px 1px rgba(0,0,0,.4)}
